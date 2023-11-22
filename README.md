@@ -4,17 +4,16 @@
 This is a great project tha does amazing things. Its designed to make your life easier and more enjoyable
 
 ## Table of contents
--[Inatallstion](#installtion)
--[Usage](#usage)
--[Contribution](#contribution)
--[Lisence](#license)
+- [Inatallstion](#installtion)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Lisence](#license)
 
 ## Installation
 To install the project, run the follwing command
 
 ```bash
-npm intall
+npm install
 
 
-usage# space
-Getting to know about space
+usage
